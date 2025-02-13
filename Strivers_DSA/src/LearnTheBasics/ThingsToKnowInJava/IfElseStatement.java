@@ -11,10 +11,10 @@ public class IfElseStatement {
     public static String compareNM(int n, int m) {
         // code here
         if(n<m){
-            return "Lesser";
+            return "lesser";
         }else if(n==m){
-            return "equal"
+            return "equal";
         }
-        return
+        return "greater";
     }
 }
