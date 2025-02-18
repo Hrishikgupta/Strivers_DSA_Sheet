@@ -11,9 +11,9 @@ public class PrintSomethingNtimes {
 
     }
     static int print(int i, int n){
-        if(i==n){
-            System.out.println(n);
-            return n;
+        if(i>n){
+            //System.out.println(n);
+            return 0;
         }
         System.out.print(i+" ");
         return print(i+1,n);
