@@ -5,6 +5,7 @@ import java.util.Arrays;
 //Sort an array of 0's , 1's and 2's
 //leetcode-75
 //https://leetcode.com/problems/sort-colors/description/
+//https://www.naukri.com/code360/problems/631055?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM
 public class SortAnArrayOf0s1sand2s {
     public static void main(String[] args) {
         int[] nums = {2,0,2,1,1,0};
